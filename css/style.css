@@ -1,0 +1,37 @@
+
+
+Body {
+    background-color: whitesmoke;
+}
+header{
+    background-color: darkseagreen;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 55px;
+    text-align: center;
+}
+
+a:visited {
+    background-color:darkseagreen;
+    
+}
+ 
+a:hover {
+    background-color: lightgreen;
+   
+}
+a:link {
+    background-color: darkseagreen;
+    text-decoration: none;
+}
+
+a:active {
+    background-color: darkseagreen;
+}
+
+nav {
+    font-size: 50px;
+    
+}
