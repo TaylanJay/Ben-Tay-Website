@@ -20,6 +20,7 @@ h1 {
 
 h2 {
    font-size: 35px;
+    
 }
 
 a:visited {
@@ -56,5 +57,14 @@ img {
     height: 400px;
     width: 500px;
    border-radius: 50px;
-    b
+    
+}
+
+h3 {
+    font-size: 35px;
+    text-align: center;
+    }
+.Map {
+    
+   width: 50%;
 }
