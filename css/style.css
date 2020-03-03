@@ -23,6 +23,38 @@ h2 {
     
 }
 
+img {
+ float: right;
+    height: 400px;
+    width: 500px;
+   border-radius: 50px;
+    
+}
+
+h3 {
+    font-size: 35px;
+    text-align: center;
+    }
+
+img {
+ float: right;
+    height: 400px;
+    width: 500px;
+   border-radius: 50px;
+}
+
+h3 {
+    font-size: 35px;
+    text-align: center;
+    }
+
+img{
+
+}
+
+
+/* Pseudo codes*/
+
 a:visited {
     background-color:darkseagreen;
     color: LightYellow;
@@ -43,28 +75,28 @@ a:active {
     background-color: darkseagreen;
 }
 
-img{
-  height: 500px;
-}
+/* Classes */
 
-.Pic1 {
-    font-size: 20px;
-    
-}
-
-img {
- float: right;
-    height: 400px;
-    width: 500px;
-   border-radius: 50px;
-    
-}
-
-h3 {
-    font-size: 35px;
-    text-align: center;
-    }
 .Map {
     
    width: 50%;
 }
+.Pic1 {
+    font-size: 20px;
+    
+}
+.flex-container {
+    display: flex;
+  flex-direction: column;
+text-align: center;
+    font-size: 25px;
+    border: solid 10px darkseagreen;
+}
+
+.members {
+text-decoration: underline;
+    font-size: 60px;
+    border: solid 10px darkseagreen;
+    
+}
+
