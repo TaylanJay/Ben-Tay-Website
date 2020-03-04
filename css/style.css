@@ -23,6 +23,38 @@ h2 {
     
 }
 
+img {
+ float: right;
+    height: 400px;
+    width: 500px;
+   border-radius: 50px;
+    
+}
+
+h3 {
+    font-size: 35px;
+    text-align: center;
+    }
+
+img {
+ float: right;
+    height: 400px;
+    width: 500px;
+   border-radius: 50px;
+}
+
+h3 {
+    font-size: 35px;
+    text-align: center;
+    }
+
+img{
+
+}
+
+
+/* Pseudo codes*/
+
 a:visited {
     background-color:darkseagreen;
     color: LightYellow;
@@ -43,29 +75,33 @@ a:active {
     background-color: darkseagreen;
 }
 
-img{
-  height: 500px;
-}
+/* Classes */
 
+.Map {
+    
+   width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 .Pic1 {
     font-size: 20px;
     
 }
-
-img {
- float: right;
-    height: 400px;
-    width: 500px;
-   border-radius: 50px;
-    
+.flex-container {
+    display: flex;
+  flex-direction: column;
+text-align: center;
+    font-size: 25px;
+    border: solid 10px darkseagreen;
 }
 
-h3 {
-    font-size: 35px;
-    text-align: center;
-    }
-.Map {
+.members {
+text-decoration: underline;
+    font-size: 60px;
+    border: solid 10px darkseagreen;
     
+<<<<<<< HEAD
    width: 50%;
     margin-left: auto;
     margin-right: auto;
@@ -74,4 +110,8 @@ h3 {
 h4 {
     font-size: 35px;
     text-align: center;
+=======
+>>>>>>> 8ecc0e1026ca2618efa3609b089c3e56db471eba
 }
+
+
