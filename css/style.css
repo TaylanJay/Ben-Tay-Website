@@ -20,6 +20,7 @@ h1 {
 
 h2 {
    font-size: 35px;
+    text-align: center;
     
 }
 
@@ -75,6 +76,7 @@ a:active {
     background-color: darkseagreen;
 }
 
+<<<<<<< HEAD
 /* Classes */
 
 .Map {
@@ -94,6 +96,18 @@ a:active {
 text-align: center;
     font-size: 25px;
     border: solid 10px darkseagreen;
+=======
+img{
+    
+}
+
+
+.Pac1 {
+    font-size: 25px;
+    
+}
+    
+>>>>>>> 9e14ec0c4687c5166c561aa5e79acd1d323793af
 }
 
 .members {
@@ -113,5 +127,64 @@ h4 {
 =======
 >>>>>>> 8ecc0e1026ca2618efa3609b089c3e56db471eba
 }
+
+<<<<<<< HEAD
+
+=======
+.flex-container {
+    display: flex;
+  flex-direction: column;
+text-align: center;
+    font-size: 25px;
+    border: solid 10px darkseagreen;
+}
+
+.members {
+text-decoration: underline;
+    font-size: 60px;
+    border: solid 10px darkseagreen;
+}
+ 
+.pic1 {
+    float: right;
+    height: 400px;
+    width: 500px;
+   border-radius: 50px;
+}
+
+.pic2 {
+ float: left;
+    height: 600px;
+    width: 500px;
+   border-radius: 50px;
+}
+
+.pac2 {
+    font-size: 25px;
+}
+
+
+#myBtn {
+    background-color: darkseagreen;
+    position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+    color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+}
+.school {
+    font-size: 30px;
+    text-align: center;
+    
+}
+
+>>>>>>> 9e14ec0c4687c5166c561aa5e79acd1d323793af
+
 
 
