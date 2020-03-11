@@ -57,7 +57,7 @@ img{
 /* Pseudo codes*/
 
 a:visited {
-    background-color:darkseagreen;
+    background-color: darkseagreen;
     color: LightYellow;
 }
  
@@ -165,7 +165,7 @@ text-decoration: underline;
   font-size: 18px;
   border: none;
   outline: none;
-  background-color: green;
+  background-color: darkseagreen;
   color: white;
   cursor: pointer;
   padding: 15px;
@@ -174,8 +174,11 @@ text-decoration: underline;
     
     
     #myBtn:hover {
-  background-color: grey;
+  background-color: darkseagreen;
     }
+
+
+
     
 .school {
     font-size: 30px;
@@ -184,7 +187,7 @@ text-decoration: underline;
 }
 
     @font-face {
-   font-family:'Fira Sans Extra Condensed', sans-serif;
+   font-family: Fira Sans Extra Condensed', sans-serif;
 
     }
    
